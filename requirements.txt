@@ -7,3 +7,5 @@ sentence-transformers==3.2.1
 faiss-cpu==1.12.0
 python-dotenv==1.0.1
 groq==0.11.0
+transformers==4.46.3
+torch==2.5.1
